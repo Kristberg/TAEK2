@@ -7,4 +7,7 @@ Verkefni 1 í TÆK2A
     	ROM stendur fyrir "Read-Only- memory" og er tölvuminni sem aðeins tölva getur lesið. Það er ekki hægt fyrir	     tölvuna að	skrifa gögn í lesminnið, til þess að gera það þarf sérstakan búnað.
 	T.d. getur ROM verið CD, DVD, ROM kubbar og sum segulbönd gætu flokkast sem ROM.
 	Allar upplýsingar á ROM flögunni eru settar á hann þegar hann er búinn til.
-	Upplýsingar á ROM kísilflögu geta ekki verið strokaðar út, endurskrifaðar og er úreltar.
+	Upplýsingar á ROM kísilflögu geta ekki verið strokaðar út, endurskrifaðar og er úreltari.
+
+    3. Hvað er fyrirbyggjandi viðhald?
+	Fyrirbyggjandi viðhald eða "Preventive Maintenance" er regluleg og kerfisleg skoðun, hreinsun og að skipta um 	     hluti og kerfi sem eru úrelt og einnig heldur vélbúnaðinum og hugbúnaðinum í góðu ástandi.
