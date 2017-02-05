@@ -44,3 +44,17 @@ Verkefni 1 í TÆK2A
 	1. Skanni
 	2. Lyklaborð
 	3. Mús.
+
+    10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og 	     hvar hann fæst.
+
+
+    	MSI Z170A Gaming M7 móðurborð - 36.950kr.
+	Samsung 850 EVO 250GB SSD drif - 16.950kr.
+	2TB SATA3 Seagate Barracuda harður diskur (ST2000DM006) 64MB - 11890kr.
+	Corsair VEN 2x8GB 3000 minni - 16.950kr.
+	Corsair CX750M aflgjafi - 18.750kr.
+	Cooler Master Silencio 550 hljóðeinangraður - 17.991kr.
+	Skjákort Gigabyte GTX1070 8GB Mini ITX OC - 66.900kr.
+	Intel Core i7-7700 3.6GHz, LGA1151 Kaby Lake, Quad-Core - 48.900kr.
+	Heildarverð er : 235.281kr
+	(Þurfti 16000kr í viðbót til að geta notað 1080 Skjákort :C)
