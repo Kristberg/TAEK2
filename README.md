@@ -25,23 +25,22 @@ Verkefni 1 í TÆK2A
     6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 	1. Greina hvað vandamálið.
 	2. Setja fram tilgátu um líklega orsök.
-    3. Athuga hvort að tilgátan greinir örsökin
+	3. Athuga hvort að tilgátan greinir örsökin
 	4. Búa til áætlun um aðgerðir til að leysa vandamálið.
 	5. Staðfesta fulla kerfisvirkni og ef á við, bæta inn fyrirbyggjandi viðhald.
 	6. Skrá niðurstöður, framkvæmdir og útkomur.
 
-7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? 
+    7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? 
 	Opin spurning gerir svarandanum kleift að svara spurningunni með sínum eigin orðum
 	t.d. ef hann er með tölvu vandamál og þú spyrð hann "Hvert er vandamálið?", þá lýsir hann
 	hvert vandamálið er.
 
 	Lokuð spurning er já eða nei spurning.
 
-8. Hvað er jaðartæki?
+    8. Hvað er jaðartæki?
 	Jaðratæki er tæki sem tengt er við tölvu og hún stýrir, t.d. prentara, diskadrifi,
 	vefmyndavélum og mótöldum.
-
-9. Nefndu þrjú dæmi um inntakstæki:
+    9. Nefndu þrjú dæmi um inntakstæki:
 	1. Skanni
 	2. Lyklaborð
 	3. Mús.
